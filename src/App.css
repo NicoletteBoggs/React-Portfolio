@@ -1,0 +1,159 @@
+.App {
+  text-align: center;
+}
+
+.navlist{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.navitem{
+  margin: 15px;
+
+}
+
+/* * {
+    box-sizing: none;
+    padding: 0;
+    margin: 0;
+} */
+
+body {
+  background-color: rgb(255, 192, 247);
+}
+
+.header {
+  padding: 20px;
+  font-size: 40px;
+  font-family: 'arial narrow';
+  background-color: gray;
+  color: #efdff5;
+}
+
+.header h1 {
+  display: inline-block;
+  font-size: 50px;
+  color: black;
+}
+
+.header div {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'arial';
+  font-size: 20px;
+}
+
+.header div ul {
+  list-style-type: none;
+}
+
+.header div ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.a:hover {
+  background-color: #f391fa
+}
+
+.navigation {
+  margin-left: 0px;
+  padding: 30px;
+  height: 70px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: salmon;
+  color: white;
+}
+
+.navigation div ul {
+  list-style-type: none;
+}
+
+.navigation div ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.about-me {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+
+}
+
+.projects {
+  color: white;
+}
+
+input {
+  margin: 10px 0;
+  font-size: 1rem;
+  padding: 0.25rem;
+  width: 600px;
+  /* border: 1px solid black outline: none;
+  border-radius: 3px;
+  transition: box-shadow 0.2s; */
+}
+form {
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.skills {
+  list-style-type: none;
+}
+
+.submit {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #f391fa;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 9px #999;
+  }
+
+.navitem {
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration-color: white;
+  outline: none;
+  color: #fff;
+  background-color: #f391fa;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 9px #999;
+}
+
+  .submit:hover {
+    background-color: #f391fa
+  }
+
+  .submit:active {
+    background-color: #f391fa;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  /* .footer {
+    position: absolute;
+    bottom: 0;
+    /* width: 100%;
+    height: 2.5rem; */
+    /* Footer height */
+  /* }  */
