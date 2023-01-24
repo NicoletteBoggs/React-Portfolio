@@ -1,30 +1,18 @@
-# Book Search
+# React Portfolio
 
 ## Description:
 
-This is a refactor of a fully functioning Google Books API search engine using a RESTful API. We refactored it to be a GraphQL API built with Apollo Server.
+My updated portfolio using react.
 
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
 1. [ Description ](#description)
-2. [ Installation ](#installation)
-3. [ Usage ](#usage)
-4. [ License ](#license)
-5. [ Questions ](#questions)
-6. [ Github ](#github)
-7. [ Links ](#links)
-
-## Installation
-
-To install the necessary dependancies, run the following command:
-
-npm i
-
-## Usage:
-
-Search for books you want to read and keep a list of books to purchase.
+2. [ License ](#license)
+3. [ Questions ](#questions)
+4. [ Github ](#github)
+5. [ Links ](#links)
 
 ## License
 
@@ -65,5 +53,5 @@ Want to see more of my work?
 
 ## Links
 
-- [Github Link]()
+- [Github Link](https://github.com/NicoletteBoggs/React-Portfolio)
 - [Deployed Link]()
